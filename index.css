@@ -1,0 +1,600 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.navbar-brand img {
+	height: 3rem;
+	position: absolute;
+	top: 18px;	
+}
+
+.header-section {
+	background-color: #2bd45f;
+	height: 43rem;
+	width: 100%;
+}
+
+.header_content {
+	margin: auto;
+	width: 70%;
+}
+
+.navbar-default {
+    background-color: #2bd45f;
+    border: none;
+    color: white;
+    margin: 0px;
+    padding: 10px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    font-size: 18px;
+}
+
+.descript h1 {
+	color: white;
+	font-size: 5.5rem;
+	padding: 0px;
+}
+
+.descript p {
+	color: white;
+	margin-bottom: 0px;
+	padding: 5px;
+}
+/*=============================================
+	CATEGORIES
+=============================================
+*/
+
+.content_wrapper {
+	width: 70%;
+	margin: auto;
+	background-color: #fff;
+	margin-top: -150px;
+	border: 1px solid #f3e8e8;
+}
+
+.categories {
+	padding: 10px;
+	width: 100%;
+	
+}
+
+.categories h3 {
+	margin: 0px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+
+.cate-group {
+	margin-left: 50px;
+}
+
+.categories h4 {
+	padding: 10px 0px 0px;
+}
+
+.categories p {
+	padding: 0px 5px 0px;
+}
+
+
+/*=============================================
+	END OF CATEGORIES
+=============================================
+*/
+
+
+/*=============================================
+	GET DIGITISED
+=============================================
+*/
+
+.row {
+	overflow: hidden;
+}
+
+.col-md-6 {
+	padding-left: 10px;
+	padding-right: 0px;
+}
+
+.get-digitised {
+	width: 70%;
+	margin: auto;
+	overflow: hidden;
+	margin-bottom: 60px;	
+}
+
+
+.get-digitised p{
+	font-size: 16px;
+	padding: 5px;
+}
+
+.get-digitised h3 {
+	margin: 20px;
+}
+.jumbotron  p, h5 {
+	padding-left: 20px;
+	padding-right: 20px;
+	color: white;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+.reach-out {
+	background-color: #ff8d00;
+	height: 25rem;
+}
+
+.reach-out h5, p{
+	padding-bottom: 0px;
+}
+
+.we-visit {
+	background-color: #00966c;
+	margin-left: 20px;
+	height: 25rem;	
+}
+
+.get {
+	background-color: #1ed82c;
+	height: 25rem;
+	
+}
+
+.discovered {
+	background-color: #e00c0c;
+	margin-left: 20px;
+	height: 25rem;
+	overflow: hidden;
+}
+
+.text-center {
+	padding: 10px;
+	margin: 0px;
+}
+
+/*=============================================
+	END OF GET DIGITISED
+=============================================
+*/
+
+/*=============================================
+	DESCRIPTION
+=============================================
+*/
+
+.much-more{
+    width: 100%;
+    background-color: #ff8d00;
+    margin-bottom: 60px;
+    height: 55rem;
+}
+
+.more {
+	width: 70%;
+	margin: auto;
+	background-color: #ff8d00;
+	text-align: center;
+	color: white;
+}
+
+.more h2, h3, p{
+	margin: 5px;
+	padding: 70px 5px 0px;
+	
+}
+
+.more h2{
+	font-size: 40px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+.more p{
+	padding: 7px;
+}
+.more h2{
+	padding: 5px;
+}
+.col-md-6 h5 {
+	font-size: 20px;
+}
+
+
+.trusted{
+	width: 100%;
+	background-color: #2cf72c;
+	margin-bottom: 60px;
+	height: 55rem;
+}
+
+.trust {
+	background-color: #2cf72c;
+	width: 70%;
+	margin: auto;
+	overflow: hidden;
+}
+
+.trust h2 {
+	text-align: center;
+	margin: 0px;
+	padding: 5px;
+	color: white;
+	font-size: 50px;
+	margin-bottom: 30px;
+}
+/*=============================================
+	END OF DESCRIPTION
+=============================================
+*/
+
+
+/*=============================================
+	BUSINESS PARTINERS
+=============================================
+*/
+.partiners {
+	margin: 0px;
+	padding: 0px;
+}
+
+.partiners img {
+	width: 100%;
+	height: 30px;
+	overflow: hidden;
+	margin: 10px;
+}
+
+/*=============================================
+	END OF BUSINESS PARTINERS
+=============================================
+*/
+
+
+/*=============================================
+	SPONSORS
+===============================================
+*/
+.sponsorship {
+	width: 100%;
+    background-color: #009627b5;
+    margin-bottom: 60px;
+    height: 55rem;  
+}
+
+.joint img {
+	width: 100%;
+	height: 30px;
+	overflow: hidden;
+	margin: 10px;
+}
+
+.support {
+	width: 70%;
+	margin: auto;
+	background-color: #096f2300;
+	text-align: center;
+	color: white;
+}
+.trust {
+	text-align: center;
+}
+
+.support h2{
+	padding: 20px 10px 20px;
+
+}
+
+.support p {
+	padding: 80px 40px 50px;
+}
+
+/*=============================================
+	END OF SPONSORS
+=============================================
+*/
+
+/*===========================================
+	SLIDE BANNER 
+*/
+.slider_part {
+	width: 70%;
+	margin: auto;
+}
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: auto;
+}
+
+/*===========================================
+	END OF SLIDE BANNER 
+*/
+
+
+/*===========================================
+	DIGITAL GARU FOUNDERS
+*/
+.digital_founders{
+	width: 70%;
+	margin: auto;
+	background-color: #fff;
+	margin-top: 70px;
+	padding: 50px;
+}
+.digital_founders img {
+	width: 100%;
+	overflow: hidden;
+}
+
+.digital_founders h3 {
+	font-size: 16px;
+	padding: 80px 20px 0px;
+	font-weight: bold;
+	text-align: center;
+}
+/*===========================================
+	END OF DIGITAL GARU FOUNDERS
+*/
+
+
+/*===========================================
+	FOOTER
+*/
+
+footer {
+	width: 100%;
+	overflow: hidden;
+	background-color: #2bd45f;
+	text-align: center;
+	color: white;
+	height: 180px;
+}
+
+footer h4, p {
+	padding: 0px;
+	margin: 0px;
+}
+
+/*===========================================
+	END OF FOOTER
+*/
+
+@media (max-width: 768px) {
+/*===================================
+ Header section
+ ====================================
+*/
+.header_content {
+	margin: auto;
+	width: 90%;
+}
+
+.descript h1 {
+	color: white;
+	font-size: 2.5rem;
+}
+
+/*===================================
+ End of Header section
+ ====================================
+*/
+
+
+/*===================================
+Content-wrapper
+ ====================================
+*/
+.content_wrapper {
+	width: 90%;
+	margin: auto;
+	background-color: #fff;
+	margin-top: -150px;
+	border: 1px solid #f3e8e8;
+}
+
+
+/*===================================
+ End of Content-wrapper
+ ====================================
+*/
+
+/*===================================
+ Get-digitised
+ ====================================
+*/
+.get-digitised {
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+	margin-bottom: 60px;	
+}
+.get-digitised h5, p{
+	padding-left: 15px;
+}
+
+/*===================================
+ End of Get-digitised
+ ====================================
+*/
+
+/*===================================
+Much more
+ ====================================
+*/
+.more {
+	width: 90%;
+	margin: auto;
+	background-color: #ff8d00;
+	text-align: center;
+	color: white;
+	height: 45rem;
+}
+.much-more .more h3 {
+	font-size: 30px;
+	margin-bottom: 0px;
+}
+
+.much-more .more p {
+	font-size: 16px;
+}
+.much-more .more h2 {
+	font-size: 40px;
+	padding: 10px;
+}
+
+.more h2, h3, p{
+	margin: 0px;
+	padding: 70px 5px 0px;
+	
+}
+
+.partiners {
+	columns: 2;
+
+}
+
+.partiners img {
+	width: 100%;
+	height: 100px;
+	overflow: hidden;
+	margin: 0px;
+}
+/*===================================
+ sponsorship
+ ====================================
+*/
+.support {
+	width: 90%;
+	margin: auto;
+	background-color: #096f2300;
+	text-align: center;
+	color: white;
+}
+
+
+
+/*===================================
+ End of sponsorship
+ ====================================
+*/
+.trust {
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+	height: 45rem;
+
+}
+
+.trust h2 {
+	text-align: center;
+	margin: 0px;
+	padding: 20px 5px 0px;
+	color: white;
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+
+/*===================================
+ End of trust
+ ====================================
+*/
+.joint {
+	columns: 2;
+}
+
+.support h2{
+	padding: 20px 10px 20px;
+
+}
+
+.support p {
+	padding: 20px 40px 50px;
+}
+
+.joint img {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	margin: 0px;
+}
+
+.cate-group {
+	margin-left: 0px;
+}
+
+.we-visit {
+	background-color: #4caf50;
+	margin-left: 0px;
+	
+}
+
+.discovered {
+	background-color: brown;
+	margin-left: 0px;
+}
+.trusted{
+	width: 100%;
+	background-color: #2cf72c;
+	margin-bottom: 60px;
+	height: auto;
+}
+
+.sponsorship {
+	width: 100%;
+    background-color: #009627b5;
+    margin-bottom: 60px;
+    height: auto;  
+}
+
+.much-more{
+    width: 100%;
+    background-color: #ff8d00;
+    margin-bottom: 60px;
+    height: auto;
+}
+
+.joint img {
+	width: 50%;
+	height: auto;
+	overflow: hidden;
+	margin: 10px;
+}
+
+.partiners img {
+	width: 50%;
+	height: auto;
+	overflow: hidden;
+	margin: 10px;
+}
+
+.digital_founders h3 {
+	font-size: 16px;
+	padding: 10px;
+	font-weight: bold;
+}
+
+
+.digital_founders{
+	width: 100%;
+	margin: auto;
+	background-color: #fff;
+	margin-top: 70px;
+	padding: 50px;
+}
+
+footer h4, p {
+	padding: 0px;
+	margin: 0px;
+}
+
+
+}
